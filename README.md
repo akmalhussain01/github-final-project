@@ -1,5 +1,5 @@
 # Simple Interest Calculator
-
+ 
 A lightweight, terminal-based Bash script that computes simple interest based on user inputs for principal, annual rate of interest, and time period. 
 
 This project was developed as part of a final practical assessment to demonstrate proficiency with GitHub UI workflows and Git CLI operations.
